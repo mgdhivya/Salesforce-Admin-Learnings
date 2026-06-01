@@ -244,16 +244,26 @@ ActionStepsCreate new AppApp Manager → New Lightning AppEdit existing AppApp M
 
 Verify Tabs → Setup → Tabs
 Verify Apps → Setup → App Manager
+## 📸 Practical Screenshots
 
-📸 Practical Screenshots
+### 📒 My Notes:
+![Notes 1](Notes%201.png)
+![Notes 2](Notes%202.png)
+![Notes 3](Notes%203.png)
+![Notes 4](Notes%204.png)
+![Notes 5](Notes%205.png)
+![Notes 6](Notes%206.png)
+![Notes 7](Notes%207.png)
+![Notes 8](Notes%208.png)
+![Notes 9](Notes%209.png)
 
-🔜 Screenshots from Developer Org coming soon!
-
- Custom Tab created
- Web Tab created
- Lightning Page Tab created
- Custom App created
- Connected App created
+### 💻 Dev Org Screenshots:
+![Screenshot 1](Screenshot%202026-06-01%20112556.png)
+![Screenshot 2](Screenshot%202026-06-01%20112610.png)
+![Screenshot 3](Screenshot%202026-06-01%20112741.png)
+![Screenshot 4](Screenshot%202026-06-01%20112846.png)
+![Screenshot 5](Screenshot%202026-06-01%20114203.png)
+![Screenshot 6](Screenshot%202026-06-01%20172830.png)
  Packaged App installed
 
 
